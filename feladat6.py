@@ -16,4 +16,3 @@ while i < 20:
     i +=1
 
 print("3-mal osztható számok száma:", db)
-  
