@@ -8,5 +8,4 @@ while folytatja:
     valasz =  int(input("Írj egy páros számot:"))
     if valasz % 2 == 0:
         folytatja = False
-print('>> Program vége! <<')      
-  
+print('>> Program vége! <<')
